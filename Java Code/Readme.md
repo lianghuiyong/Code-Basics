@@ -1,7 +1,7 @@
 # 设计模式
 Name | Sample
 ---  | ---
-单例模式| [Test1Singleton](/src/designpattern/Test1Singleton.java)
+单例模式| [Test1Singleton](src/designpattern/Test1Singleton.java)
 
 # 算法
 Name | Sample
